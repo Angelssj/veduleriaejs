@@ -1,5 +1,5 @@
 {
-  "name": "veduleriaejs",
+  "name": "hector",
   "version": "1.0.0",
   "description": "act Verduleria",
   "main": "index.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/EmiMolina248/veduleriaejs.git"
+    "url": "git+https://github.com/Angelssj/hECTOR.git"
   },
-  "author": "Emi Molina",
+  "author": "Angelssj",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/EmiMolina248/veduleriaejs/issues"
+    "url": "https://github.com/Angelssj/hECTOR/issues"
   },
-  "homepage": "https://github.com/EmiMolina248/veduleriaejs#readme",
+  "homepage": "https://github.com/Angelssj/hECTOR#readme",
   "dependencies": {
     "ejs": "^3.1.6",
     "express": "^4.17.1",
